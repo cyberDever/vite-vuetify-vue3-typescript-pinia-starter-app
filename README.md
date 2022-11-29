@@ -2,11 +2,13 @@
 
 ## Features
 
-- `Vue 2.7` + `Vuetify`, `Typescript`,
+- `Vue 2.7` + `Vuetify`, `Typescript`, `Pinia`,
 - `Vite` for the frontend build tooling, instead of Vue Cli
 - Using `Composition API` syntax from Vue 2(see the official [Script Setup documentation](https://v3.vuejs.org/api/composition-api.html))
 - Pulling up API requests using `axios`
 - `Eslint` for code styling
+- `Pinia` for state management
+- Using the `NHTSA's vPIC API` 3rd party library for API integration
 - // Unit tests with Vitest and Vue test utils
 - // Cypress.io e2e tests (configured similarly to `vue-cli`)
 - // Cypress.io component tests
