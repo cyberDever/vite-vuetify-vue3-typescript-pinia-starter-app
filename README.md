@@ -40,6 +40,13 @@ npm install --global yarn
 yarn global add typescript
 ```
 
+### Environmane Variables
+In a project, that contains a `.env.example` file. You can use the below command to use these environment variables to run.
+```
+cp .env.example .env
+```
+
+
 ## Build, run, lint
 ### Install dependencies
 ```
